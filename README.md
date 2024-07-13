@@ -446,3 +446,6 @@ site10.html
 </html>
 
 ```
+OUTPUT
+
+![image](https://github.com/user-attachments/assets/8c0671f5-d8c6-45f7-8246-ea870f01b36a)

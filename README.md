@@ -86,9 +86,9 @@ heritage.html
 </body>
 </html>
 ```
-```
+
 hotel-bokking.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -131,9 +131,9 @@ hotel-bokking.html
 </body>
 </html>
 ```
-```
+
 gallery.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -161,9 +161,9 @@ gallery.html
 </body>
 </html>
 ```
-```
+
 site1.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -189,9 +189,9 @@ site1.html
 </body>
 </html>
 ```
-```
+
 site2.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -217,9 +217,9 @@ site2.html
 </body>
 </html>
 ```
-```
+
 site3.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -245,9 +245,9 @@ site3.html
 </body>
 </html>
 ```
-```
+
 site4.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -273,9 +273,9 @@ site4.html
 </body>
 </html>
 ```
-```
+
 site5.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -302,9 +302,8 @@ site5.html
 </html>
 
 ```
-```
 site6.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -331,9 +330,9 @@ site6.html
 </html>
 
 ```
-```
+
 site7.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -360,9 +359,9 @@ site7.html
 </html>
 
 ```
-```
+
 site8.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -389,9 +388,9 @@ site8.html
 </html>
 
 ```
-```
+
 site9.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -418,9 +417,9 @@ site9.html
 </html>
 
 ```
-```
+
 site10.html
-```
+
 ```
 <!DOCTYPE html>
 <html lang="en">
